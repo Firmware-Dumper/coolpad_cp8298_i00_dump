@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MTKComm-feature version="1">
+ <MTKComm-features signal_strength_level_tag="4"
+                signal_diaplay_support_by_yulong="1"
+                import_sms_support_by_yulong="1"
+                import_contacts_support_by_yulong="1"
+                sms_filter_support_by_yulong="1"
+                cooperation_support_by_yulong="1"
+                operator_special_require_support_by_yulong="0"
+                operator_type_support_by_yulong="0"
+                signal_smoothly_support_by_yulong="1"
+                adn_log_flag="1"
+                sim_missing_notify="1"
+                sms_receive_broadcast_type="1"
+                platform_type="MT6735"
+                ntp_optional_server_support_by_yulong="1"
+               />
+</MTKComm-feature>

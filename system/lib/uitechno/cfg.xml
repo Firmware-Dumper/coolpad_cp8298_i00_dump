@@ -1,0 +1,44 @@
+﻿<root>
+    <component name="common">
+        <item key="networkType" value="GG"/>
+        <item key="defaultLiveWallpaper" value=""/>
+    </component>
+    <component name="launcher">
+        <item key="widgetSort" value="com.android.music.MediaAppBigWidgetProvider;com.yulong.android.weatherwidget.WeatherWidget;com.yulong.android.calendar.widget.CalendarMonthWidgetProvider;com.yulong.android.xtimewidget.AnalogAppWidgetProvider;com.icoolme.android.weather.widget.WeatherWidgetHighProvider;com.yulong.android.xtimewidget.WorldClockProvider;com.yulong.android.calendar.widget.CalendarAppWidgetProvider;com.android.music.MediaAppWidgetProvider;com.yulong.android.memo.widget.MyWidgetProvider;com.yulong.android.showwidget.CoolShowWidget;com.yulong.android.network.widget.NetworkWidgetProvider;com.yulong.android.weibo.appwidget.FavoriteContactsWidgetProvider;com.android.email.provider.WidgetProvider;com.android.browser.widget.BookmarkThumbnailWidgetProvider;com.android.gallery3d.gadget.PhotoAppWidgetProvider;com.android.quicksearchbox.SearchWidgetProvider;com.android.contacts.socialwidget.SocialWidgetProvider"/>
+        <item key="FORCE_DISABLE_GUARD_MODE" value="true"/>
+        <item key="DEFAULT_SCROLL_ANIMATION" value="2"/>
+        <item key="ICON_SINGLE_LINE" value="false"/>
+    </component>
+    <component name="systemUI">
+        <item key="networkType" value="GG"/>
+        <item key="cardName" value="usim"/>
+        <item key="shortcut6" value="2,0,1,8,5,9,13,20,11,6,7,14,12,15,42,43" />
+        <item key="shortcutExclude6" value="" />
+        <item key="shortcut_primary6" value="0,1,8,13,9,5,37,2" />
+        <item key="shortcutExclude_primary6" value="" />
+        <item key="dsType" value=""/>
+    </component>
+    <component name="gps">
+    </component>
+    <component name="widget">
+        <item key="maximumVelocity" value="30000"/>
+        <item key="velocityScale" value="2"/>
+        <item key="minVelocity" value="2000"/>
+        <item key="scrollMinVelocity" value="2000"/>
+        <item key="horizontalScrollView_velocityScale" value="1.5"/>
+        <item key="horizontalScrollView_scrollMinVelocity" value="1200"/>
+        <item key="scrollView_velocityScale" value="1.5"/>
+        <item key="scrollView_scrollMinVelocity" value="1200"/>
+    </component>
+    <component name="seccenter">
+    </component>
+    <component name="coolshow">
+        <item key="lockscreenText" value=""/>
+        <item key="isOnline" value="false"/>
+    </component>
+
+    <component name="retailMode">
+           <item key="CONTENT_PATH" value="/storage/emulated/0/Retail"/>
+    </component>
+
+</root>
