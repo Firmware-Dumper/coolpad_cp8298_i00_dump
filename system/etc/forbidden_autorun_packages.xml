@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<packages>
+<package name="com.google.android.music:main" />
+<package name="com.google.android.talk" />
+<package name="com.google.android.youtube" />
+<package name="com.cube26.coolstore" />
+<package name="com.cube26.nearestservicecenter" />
+</packages>

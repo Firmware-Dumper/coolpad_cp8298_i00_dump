@@ -1,0 +1,13 @@
+com.tencent.clover 1 299000 3 1040000 819000
+com.cg.tennis 1 299000 3 1040000 819000
+com.ea.game.nfs14_row 1 299000 3 1040000 819000
+com.gameloft.android.ANMP.GloftNAHM 1 299000 3 1040000 819000
+com.kiloo.subwaysurf 1 299000 3 1040000 819000
+com.king.candycrushsaga 1 299000 3 1040000 819000
+com.madfingergames.deadtrigger 1 299000 3 1040000 819000
+com.agaming.zonaprojectx.lite 1 299000 3 1040000 819000
+com.gameloft.android.ANMP.GloftA8HM 1 299000 3 1040000 819000
+com.gameloft.android.ANMP.GloftM5HM 1 299000 3 1040000 819000
+com.madfingergames.unkilled 1 299000 3 1040000 819000
+com.nekki.shadowfight 1 299000 3 1040000 819000
+com.supercell.clashofclans 1 299000 3 1040000 819000

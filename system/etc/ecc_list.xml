@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EccTable>
+    <!--
+        The attribute definition for tag EccEntry:
+        - Ecc: the emergnecy number
+        - Category: the service category
+        - Condition: there are following values:
+            - 0: ecc only when no sim
+            - 1: ecc always
+            - 2: MMI will show ecc but send to nw as normal call
+    -->
+    <EccEntry Ecc="112" Category="0" Condition="1" />
+    <EccEntry Ecc="911" Category="0" Condition="1" />
+    <!-- [YULONG BEGIN] TFS_342933 - yantiefang_20150918 -->
+    <!-- Configurate emergency numbers for India -->
+    <!-- yulong begin, haolaibo@yulong.com 20150507 -->
+    <!-- modify cannot call emergency phone number problem -->
+    <EccEntry Ecc="000" Category="0" Condition="0" />
+    <EccEntry Ecc="08" Category="0" Condition="0" />
+    <!-- start modify by lijie6_20150602_reslove dial 119 or 110 fail when have sim card -->
+    <EccEntry Ecc="110" Category="0" Condition="0" />
+    <EccEntry Ecc="118" Category="0" Condition="0" />
+    <EccEntry Ecc="119" Category="0" Condition="0" />
+    <!-- end modify by lijie6_20150602 -->
+    <EccEntry Ecc="999" Category="0" Condition="0" />
+    <!-- yulong end -->
+    <!-- yulong begin, wenlixin@yulong.com 20150820 -->
+    <EccEntry Ecc="100" Category="0" Condition="2" />
+    <EccEntry Ecc="101" Category="0" Condition="2" />
+    <EccEntry Ecc="102" Category="0" Condition="2" />
+    <!-- yulong end -->
+    <!-- [YULONG END] TFS_342933 - yantiefang_20150918 -->
+</EccTable>
