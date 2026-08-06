@@ -1,0 +1,14 @@
+base address: 0x40078000
+board name: 5.1.029.P0.1605
+cmdline: bootopt=64S3,32N2,64N2
+dtb offset: None
+header version: 0
+image type: AOSP
+kernel offset: 0x00008000
+original size: 16777216
+os version: None
+page size: 2048
+ramdisk compression: gzip
+ramdisk offset: 0x03f88000
+sigtype: None
+tags offset: 0x0df88000
